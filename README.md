@@ -29,3 +29,6 @@ DW:
 
 RANSAC:
 ![ransac](https://user-images.githubusercontent.com/79514917/149626062-7500b3f8-b9d0-43a9-b46b-e04e6e3d845d.png)
+
+Result:
+![result](https://user-images.githubusercontent.com/79514917/149626111-30f8553e-0321-414b-ad36-e07e802d5a0e.jpg)
