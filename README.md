@@ -9,3 +9,4 @@ Let's review the steps.
 
 Input data:
 ![frame126](https://user-images.githubusercontent.com/79514917/149625512-aa3fc418-ee0f-4198-88bd-8dee1e7dee99.jpg)
+- İnput data size: (960, 540)
