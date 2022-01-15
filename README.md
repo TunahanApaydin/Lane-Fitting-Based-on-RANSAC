@@ -20,4 +20,5 @@ Otsu Thresholding:
 - Threshold: 50.
 
 ROI:
+
 ![image](https://user-images.githubusercontent.com/79514917/149625916-8bc31531-216c-4f8d-bfc5-517fb29bf809.png)
