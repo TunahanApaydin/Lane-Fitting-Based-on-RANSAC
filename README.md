@@ -15,3 +15,7 @@ Input data:
 BGR to Gray:
 ![gray](https://user-images.githubusercontent.com/79514917/149625823-4913d61a-4117-4a35-8b97-bb4acb7174e8.jpg)
 
+Otsu Thresholding:
+![otsu](https://user-images.githubusercontent.com/79514917/149625867-7ea412f0-23f6-4bcb-9db7-59deb834f001.jpg)
+- Threshold: 50.
+
