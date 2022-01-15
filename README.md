@@ -32,3 +32,6 @@ RANSAC:
 
 Result:
 ![result](https://user-images.githubusercontent.com/79514917/149626111-30f8553e-0321-414b-ad36-e07e802d5a0e.jpg)
+
+Sample Results:
+![results](https://user-images.githubusercontent.com/79514917/149626173-aed2c2a1-ad6f-42de-9a50-041ffc68cf41.png)
