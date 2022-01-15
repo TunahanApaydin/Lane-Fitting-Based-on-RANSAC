@@ -11,5 +11,7 @@ Input data:
 ![frame126](https://user-images.githubusercontent.com/79514917/149625512-aa3fc418-ee0f-4198-88bd-8dee1e7dee99.jpg)
 - Input data size: (960, 540)
 - Each input image is resized in the data preprocessing(DataPrepocessing.py) part.
+
 BGR to Gray:
+![gray](https://user-images.githubusercontent.com/79514917/149625823-4913d61a-4117-4a35-8b97-bb4acb7174e8.jpg)
 
